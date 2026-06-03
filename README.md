@@ -1,4 +1,4 @@
-# Creative Portfolio
+# MUNENE MUTHURI
 ### Web Design · Brand Design · Networking
 
 ![Available for work](https://img.shields.io/badge/Available%20for%20work-brightgreen?style=flat-square)
